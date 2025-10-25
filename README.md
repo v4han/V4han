@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Learning Python, ML/AI<br>🐧 
+Learning Python, ML/AI 
 
 
 # 💻 Tech Stack:
