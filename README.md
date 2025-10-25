@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Learning Python<br>🐧 Experienced with Linux<br>🌐 Familiar with HTML, CSS, and Networking basics<br>⚙️ Planning to learn DevOps<br>🚀 Always learning, building, and improving<br>
+🐍 Learning Python, ML/AI<br>🐧 
 
 
 # 💻 Tech Stack:
